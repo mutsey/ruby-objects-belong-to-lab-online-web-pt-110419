@@ -1,0 +1,2 @@
+song.artist.name
+  # => "Lizzo"
